@@ -1,0 +1,5 @@
+py4dummies/
+__pycache__/
+*.pyc
+.vscode/
+.env
